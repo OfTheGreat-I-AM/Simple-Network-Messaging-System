@@ -26,7 +26,7 @@ Follow the official guide here:
 👉 https://openjfx.io/openjfx-docs/#introduction
 
 2️⃣ Clone the Repository
-git clone https://github.com/YourUsername/Simple-Network-Messaging-System.git
+git clone https://github.com/OfTheGreat-I-AM/Simple-Network-Messaging-System.git
 cd Simple-Network-Messaging-System
 
 3️⃣ Run the Servers
